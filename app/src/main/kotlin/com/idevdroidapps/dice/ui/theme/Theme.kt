@@ -1,4 +1,4 @@
-package com.idevdroidapps.project_template.ui.theme
+package com.idevdroidapps.dice.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

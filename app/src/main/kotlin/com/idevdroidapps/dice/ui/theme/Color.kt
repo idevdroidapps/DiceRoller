@@ -1,4 +1,4 @@
-package com.idevdroidapps.project_template.ui.theme
+package com.idevdroidapps.dice.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

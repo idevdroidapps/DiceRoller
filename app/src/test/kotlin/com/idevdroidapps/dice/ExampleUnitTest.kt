@@ -1,4 +1,4 @@
-package com.idevdroidapps.project_template
+package com.idevdroidapps.dice
 
 import org.junit.Test
 

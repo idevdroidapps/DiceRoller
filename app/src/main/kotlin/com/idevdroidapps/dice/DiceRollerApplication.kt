@@ -1,7 +1,7 @@
-package com.idevdroidapps.project_template
+package com.idevdroidapps.dice
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-open class TemplateApplication: Application()
+open class DiceRollerApplication: Application()

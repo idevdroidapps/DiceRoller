@@ -1,4 +1,4 @@
-package com.idevdroidapps.project_template.ui.main
+package com.idevdroidapps.dice.ui.main
 
 import androidx.lifecycle.ViewModel
 import com.idevdroidapps.domain.usecases.PersonsUseCases

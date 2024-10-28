@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "project_template"
+rootProject.name = "dice"
 include(":app")
 include(":domain")
 include(":data")

@@ -1,4 +1,4 @@
-package com.idevdroidapps.project_template.di
+package com.idevdroidapps.dice.di
 
 import com.idevdroidapps.data.repositories.PersonsRepositoryImpl
 import com.idevdroidapps.domain.interfaces.PersonsRepository

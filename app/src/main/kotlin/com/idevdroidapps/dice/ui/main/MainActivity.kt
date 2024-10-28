@@ -1,4 +1,4 @@
-package com.idevdroidapps.project_template.ui.main
+package com.idevdroidapps.dice.ui.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -12,7 +12,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.idevdroidapps.project_template.ui.theme.Project_templateTheme
+import com.idevdroidapps.dice.ui.theme.Project_templateTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
